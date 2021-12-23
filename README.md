@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mark-Karnowski
+- 👋 Hi, I’m Mark A. Karnowski
 - 👀 I’m interested in educational game development, escpecially healthcare related simulations.
 - 🌱 I’m currently learning Godot, Blender, and Krita
 - 📫 How to reach me makarnowski@charter.net
